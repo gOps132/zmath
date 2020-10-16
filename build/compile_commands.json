@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/giancedrickepilan/dev/tools/zmath/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -mmacosx-version-min=10.14   -std=gnu++17 -Xclang -emit-pch -Xclang -include -Xclang /Users/giancedrickepilan/dev/tools/zmath/build/CMakeFiles/zmath.dir/cmake_pch.hxx -o CMakeFiles/zmath.dir/cmake_pch.hxx.pch -c /Users/giancedrickepilan/dev/tools/zmath/build/CMakeFiles/zmath.dir/cmake_pch.hxx.cxx",
+  "file": "/Users/giancedrickepilan/dev/tools/zmath/build/CMakeFiles/zmath.dir/cmake_pch.hxx.cxx"
+},
+{
+  "directory": "/Users/giancedrickepilan/dev/tools/zmath/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -mmacosx-version-min=10.14   -std=gnu++17 -Xclang -include-pch -Xclang /Users/giancedrickepilan/dev/tools/zmath/build/CMakeFiles/zmath.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/giancedrickepilan/dev/tools/zmath/build/CMakeFiles/zmath.dir/cmake_pch.hxx -o CMakeFiles/zmath.dir/src/main.cpp.o -c /Users/giancedrickepilan/dev/tools/zmath/src/main.cpp",
+  "file": "/Users/giancedrickepilan/dev/tools/zmath/src/main.cpp"
+}
+]

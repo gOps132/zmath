@@ -1,0 +1,3 @@
+/Users/giancedrickepilan/dev/tools/zmath/build/CMakeFiles/rebuild_cache.dir
+/Users/giancedrickepilan/dev/tools/zmath/build/CMakeFiles/edit_cache.dir
+/Users/giancedrickepilan/dev/tools/zmath/build/CMakeFiles/zmath.dir

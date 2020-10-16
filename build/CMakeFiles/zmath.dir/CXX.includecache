@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/giancedrickepilan/dev/tools/zmath/build/CMakeFiles/zmath.dir/cmake_pch.hxx
+/Users/giancedrickepilan/dev/tools/zmath/src/zmath.h
+-
+
+/Users/giancedrickepilan/dev/tools/zmath/build/CMakeFiles/zmath.dir/cmake_pch.hxx.cxx
+
+/Users/giancedrickepilan/dev/tools/zmath/src/main.cpp
+zmath.h
+/Users/giancedrickepilan/dev/tools/zmath/src/zmath.h
+
+/Users/giancedrickepilan/dev/tools/zmath/src/zmath.h
+iostream
+-
+stdint.h
+-
+algorithm
+-
+functional
+-
+memory
+-
+sstream
+-
+string
+-
+unordered_map
+-
+unordered_set
+-
+utility
+-
+vector
+-
+
